@@ -1,0 +1,6 @@
+-- fonts
+font-family: Poppins 
+font Weight: 400, 500 e 600
+
+font-family: Roboto
+Font Weight: 400 e 500
