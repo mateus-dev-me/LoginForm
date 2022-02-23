@@ -305,7 +305,7 @@ input[type=password]:focus ~ .eye-password{
         
     }
 
-    .esqueci {
+    .esqueci_password {
         position: relative;
         right: -200px;
     }
@@ -382,7 +382,7 @@ input[type=password]:focus ~ .eye-password{
         font-size: 12px;
     }
 
-    .esqueci {
+    .esqueci_password {
         position: relative;
         width: 300px;
     }
@@ -439,7 +439,7 @@ input[type=password]:focus ~ .eye-password{
         position: absolute;
     }
 
-    .esqueci {
+    .esqueci_password {
         position: relative;
         right: -160px;
     }
