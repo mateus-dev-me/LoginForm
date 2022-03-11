@@ -1,6 +1,6 @@
 # Login-Form 🖥️
 
-## Sobre o projeto :information_source:
+## Sobre o projeto ℹ️
 
 Esse projeto foi tirado de um dos desafios do Discover, da plataforma [Rocketseat](https://app.rocketseat.com.br/discover).
 
@@ -19,9 +19,9 @@ As tecnologias usadas foram:
 
 ---
 
-## Preview :computer:
+## Preview 💻
 
-Acesse a página: [**Login Form**](https://matheus-lincon.github.io/sidebar/)
+Acesse a página: [**Login Form**](https://mateus-sousa23.github.io/LoginForm/)
 
 
 <img src="./readme-files/web-dark-yellow.png" width="620px"/> 
